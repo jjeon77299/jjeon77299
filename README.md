@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&color=auto&height=230&fontAlignY=40)
+https://img.shields.io/badge/eqwe-ptyhon-blue
 <!--
 **jjeon77299/jjeon77299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
