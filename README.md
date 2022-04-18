@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&color=auto&height=230&fontAlignY=40)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=3776AB"/>
 <!--
 **jjeon77299/jjeon77299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
