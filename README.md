@@ -1,5 +1,4 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waving)
 <!--
 **jjeon77299/jjeon77299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
