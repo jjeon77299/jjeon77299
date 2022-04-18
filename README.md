@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&color=auto&height=230&fontAlignY=40)
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 <!--
 **jjeon77299/jjeon77299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
