@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&color=auto&height=230&fontAlignY=40)
-<h2>배우고있는 프로그래밍 언어<h2>
+
 <img src="https://img.shields.io/badge/Python-060824?style=flat-square&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Java-62c2ee?style=flat-square&logo=Java&logoColor=000000"/>
 
