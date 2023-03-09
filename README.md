@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&color=auto&height=230&fontAlignY=40)
-<div>
-<h3>제가 배우고 있는 프로그래밍 언어입니다.</h3>
-<img src="https://img.shields.io/badge/Python-060824?style=flat-square&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Java-62c2ee?style=flat-square&logo=Java&logoColor=000000"/>
-<div>
-<!--
+
 **jjeon77299/jjeon77299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
